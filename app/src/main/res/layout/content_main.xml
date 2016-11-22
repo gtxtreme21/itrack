@@ -25,8 +25,8 @@
         android:id="@+id/fromLocation"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:focusable="true"
-        android:focusableInTouchMode="true" />
+        android:focusable="true">
+    </EditText>
 
     <EditText
         android:layout_width="wrap_content"
@@ -40,8 +40,8 @@
         android:id="@+id/toLocation"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:focusable="true"
-        android:focusableInTouchMode="true" />
+        android:focusable="true">
+    </EditText>
 
     <TextView
         android:hint="Bar Codes"
